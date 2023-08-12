@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sikmatt
+- 👀 I’m interested in web development and data analytics.
+- 🌱 I’m currently learning server-side app development.
+- 💞️ I’m looking to collaborate on front end and backend web development, relational database management, data analysis.
+- 📫 Message me!
